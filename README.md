@@ -4,10 +4,8 @@
   <img align="top" src="https://img.shields.io/badge/-dyofficial-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dyofficial/"/>
   <img align="top" src="https://gpvc.arturio.dev/dyofficial"/>
   <a href="https://twitter.com/_dev_DY" target="blank"><img src="https://img.shields.io/twitter/follow/_dev_DY?style=social" alt="dy" /></a>
+  <img align="top" src="https://profile-counter.glitch.me/dyofficial/count.svg"/>
  </div>
- 
- ![Visitor Count](https://profile-counter.glitch.me/dyofficial/count.svg)
-
 
 # Daniel  🧛🏿
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
