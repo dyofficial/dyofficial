@@ -5,6 +5,8 @@
   <img align="top" src="https://gpvc.arturio.dev/dyofficial"/>
   <a href="https://twitter.com/_dev_DY" target="blank"><img src="https://img.shields.io/twitter/follow/_dev_DY?style=social" alt="dy" /></a>
  </div>
+ 
+ ![Visitor Count](https://profile-counter.glitch.me/dyofficial/count.svg)
 
 
 # Daniel  🧛🏿
