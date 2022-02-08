@@ -3,6 +3,7 @@
   <img align="top" src="https://img.shields.io/badge/-danielkofi4@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danielkofi4@gmail.com"/>
   <img align="top" src="https://img.shields.io/badge/-dyofficial-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dyofficial/"/>
   <img align="top" src="https://gpvc.arturio.dev/dyofficial"/>
+   [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/_dev_DY)
  </div>
 
 # Daniel  🧛🏿
