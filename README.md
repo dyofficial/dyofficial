@@ -36,12 +36,7 @@
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=dyofficial&show_icons=true"/></td>
   </tr>
   </table>
-  <table>
-    <tr>
-      <td valign="top"><img src="https://metrics.lecoq.io/dyofficial"/></td>
-      <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyofficial"/></td>
-    </tr>
-  </table>
+ 
   
   
 
