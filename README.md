@@ -43,15 +43,6 @@
   </table>
   
   
-  ## Socials
-  
-  <table>
-    <tr>
-      <td valign="top"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></td>
-      <td valign="top"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'></td>
-      <td valign="top"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'></td>
-    </tr>
-  </table>
 
 
 
