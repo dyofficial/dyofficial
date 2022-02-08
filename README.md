@@ -1,7 +1,7 @@
 ![I am a frontend Dev!](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 <div>
   <a href="mailto:danielkofi4@gmail.com">
-  <img align="top" src="https://img.shields.io/badge/-danielkofi4@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danielkofi4@gmail.com"/>
+  <img align="top" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   <img align="top" src="https://img.shields.io/badge/-dyofficial-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dyofficial/"/>
   <img align="top" src="https://gpvc.arturio.dev/dyofficial"/>
   <a href="https://twitter.com/_dev_DY" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
