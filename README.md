@@ -8,8 +8,17 @@
 # Daniel  🧛🏿
 
 ## Skills and Experience
-* ⚛️ React
-* 💻 HTML, CSS, JSS
+
+<table>
+  <tr>
+    <td valign="top"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></td>
+    <td valign="top"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></td>
+    <td valign="top"><img src="hhttps://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></td>
+    <td valign="top"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></td>
+    <td valign="top"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/></td>
+    <td valign="top"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></td>
+  </tr>
+  </table>
 
 
 ## Github Activity
