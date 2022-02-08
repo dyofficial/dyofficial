@@ -8,6 +8,8 @@
 
 
 # Daniel  🧛🏿
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
+</p>
 
 ## Skills and Experience
 
