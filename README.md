@@ -3,7 +3,7 @@
   <img align="top" src="https://img.shields.io/badge/-danielkofi4@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danielkofi4@gmail.com"/>
   <img align="top" src="https://img.shields.io/badge/-dyofficial-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dyofficial/"/>
   <img align="top" src="https://gpvc.arturio.dev/dyofficial"/>
-  <img align="top" src="https://komarev.com/ghpvc/?username=hadidbilla&label=Profile%20views&color=0e75b6&style=flat" alt="hadid" />
+  <a href="https://twitter.com/HBHridoY449" target="blank"><img src="https://img.shields.io/twitter/follow/HBHridoY449?logo=twitter&style=for-the-badge" alt="hadid" /></a>
  </div>
 
 
