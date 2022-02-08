@@ -4,4 +4,4 @@ I'm Daniel and I'm a frontend developer  👨🏽‍💻!
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyoffical)](https://github.com/dyofficial/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyofficial)](https://github.com/dyofficial/github-readme-stats)
